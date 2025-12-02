@@ -1,7 +1,7 @@
 # test_calculator.py
 
 import pytest
-from calculator import add, subtract, multiply, divide
+from calculator import add, subtract, multiply, divide, power
 
 def test_add():
     """Test addition function."""
